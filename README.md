@@ -1,4 +1,4 @@
-# 📝 QUMsult Interview Cheat Sheet (C#, ASP.NET, SQL, Blazor)
+Cheat Sheet (C#, ASP.NET, SQL, Blazor)
 
 ---
 
